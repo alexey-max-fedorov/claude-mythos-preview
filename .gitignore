@@ -3,3 +3,8 @@ dist/
 *.js.map
 .DS_Store
 bun.lockb
+
+# Large extracted files
+cli.js.map
+sourcemap-extract.tar.gz
+vendor/
