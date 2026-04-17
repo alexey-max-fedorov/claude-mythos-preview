@@ -16,6 +16,13 @@ This is NOT real Claude Mythos Preview - this is simply for entertainment purpos
 The underlying model of Mythos Preview is Opus Plan Mode.
 
 
+Demo video:
+
+https://github.com/user-attachments/assets/490a87a5-006d-4781-84ec-b1eb47544d8f
+
+
+
+
 <br/><br/><br/>
 
 ### Original Repository: fazxes/claude-code
